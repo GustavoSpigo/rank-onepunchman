@@ -1,0 +1,316 @@
+{
+ "consulta": "28 out. 2026",
+ "fontes": [
+  {
+   "vol": 1,
+   "arquivo": "One Punch-Man - 001.pdf",
+   "formato": "PDF",
+   "paginas": 178,
+   "metodo": "OCR",
+   "obs": "Sem posição de ranking; só expressões genéricas."
+  },
+  {
+   "vol": 2,
+   "arquivo": "One Punch-Man - 002.pdf",
+   "formato": "PDF",
+   "paginas": 187,
+   "metodo": "OCR",
+   "obs": "Sem posição de ranking. Aparece a classificação de um criminoso como Classe B e a explicação do Registro Nacional dos Super-Heróis, sem números."
+  },
+  {
+   "vol": 3,
+   "arquivo": "One-Punch Man - Vol 03 [Packs de HQs].cbr",
+   "formato": "CBR",
+   "paginas": 219,
+   "metodo": "Leitura direta das páginas",
+   "obs": "Lista de heróis das Classes A, B e C no cap. 20."
+  },
+  {
+   "vol": 4,
+   "arquivo": "One-Punch Man - Vol 04 [Packs de HQs].cbr",
+   "formato": "CBR",
+   "paginas": 243,
+   "metodo": "Leitura direta das páginas",
+   "obs": "Posições de Saitama e Genos; Bang S-3; Metal Knight S-6."
+  },
+  {
+   "vol": 5,
+   "arquivo": "One-Punch Man - Vol 05 [Packs de HQs].cbr",
+   "formato": "CBR",
+   "paginas": 225,
+   "metodo": "Leitura direta das páginas",
+   "obs": "Reunião dos Classe S (cap. 29), com as posições 1 a 17; trajetória do Saitama de C-1 a B-63."
+  },
+  {
+   "vol": 6,
+   "arquivo": "ONE PUNCH MAN VOL.06.pdf",
+   "formato": "PDF",
+   "paginas": 184,
+   "metodo": "OCR e leitura visual",
+   "obs": "Mesma reunião dos Classe S em outra edição (p. 17 a 22); Iaian A-2."
+  },
+  {
+   "vol": 7,
+   "arquivo": "ONE PUNCH MAN VOL.07.pdf",
+   "formato": "PDF",
+   "paginas": 156,
+   "metodo": "OCR e leitura visual",
+   "obs": "Amai Mask A-1 e Tatsumaki S-2."
+  },
+  {
+   "vol": 8,
+   "arquivo": "ONE PUNCH MAN VOL.08.pdf",
+   "formato": "PDF",
+   "paginas": 170,
+   "metodo": "OCR e leitura visual",
+   "obs": "Heróis A-6 e A-7; contagem de heróis por classe."
+  },
+  {
+   "vol": 9,
+   "arquivo": "ONE PUNCH MAN VOL.09.pdf",
+   "formato": "PDF",
+   "paginas": 198,
+   "metodo": "OCR e leitura visual",
+   "obs": "Saitama B-7, Genos S-14, Fubuki B-1 e Regata Vegetariano A-9."
+  },
+  {
+   "vol": 10,
+   "arquivo": "ONE PUNCH MAN VOL.10.pdf",
+   "formato": "PDF",
+   "paginas": 190,
+   "metodo": "OCR e leitura visual",
+   "obs": "Legendas do encontro do Time Nevasca; Stinger A-10, Lâmina da Escuridão B-50 e Saitama B-17 (suspeito)."
+  },
+  {
+   "vol": 11,
+   "arquivo": "ONE PUNCH MAN VOL.11.pdf",
+   "formato": "PDF",
+   "paginas": 181,
+   "metodo": "OCR e leitura visual",
+   "obs": "Equipe de Classe B da missão (p. 158) e Smileman A-27."
+  },
+  {
+   "vol": 12,
+   "arquivo": "ONE PUNCH MAN VOL.12.pdf",
+   "formato": "PDF",
+   "paginas": 192,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 13,
+   "arquivo": "ONE PUNCH MAN VOL.13.pdf",
+   "formato": "PDF",
+   "paginas": 177,
+   "metodo": "OCR e leitura visual",
+   "obs": "Classe A (p. 11 e 45), Bone B-77 e Iaian A-2."
+  },
+  {
+   "vol": 14,
+   "arquivo": "ONE PUNCH MAN VOL.14.pdf",
+   "formato": "PDF",
+   "paginas": 199,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 15,
+   "arquivo": "ONE PUNCH MAN VOL.15.pdf",
+   "formato": "PDF",
+   "paginas": 187,
+   "metodo": "OCR e leitura visual",
+   "obs": "Air A-35, Saitama B-33 e trio de Classe B."
+  },
+  {
+   "vol": 16,
+   "arquivo": "ONE PUNCH MAN VOL.16.pdf",
+   "formato": "PDF",
+   "paginas": 293,
+   "metodo": "OCR e leitura visual",
+   "obs": "Perfis de heróis A e B apresentados no cap. 81."
+  },
+  {
+   "vol": 17,
+   "arquivo": "ONE PUNCH MAN VOL.17.pdf",
+   "formato": "PDF",
+   "paginas": 117,
+   "metodo": "OCR e leitura visual",
+   "obs": "Só repete Saitama B-7."
+  },
+  {
+   "vol": 18,
+   "arquivo": "ONE PUNCH MAN VOL.18.pdf",
+   "formato": "PDF",
+   "paginas": 202,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 19,
+   "arquivo": "ONE PUNCH MAN VOL.19.pdf",
+   "formato": "PDF",
+   "paginas": 339,
+   "metodo": "OCR e leitura visual",
+   "obs": "Operação de resgate com heróis A, B e C (p. 162 a 302)."
+  },
+  {
+   "vol": 20,
+   "arquivo": "ONE PUNCH MAN VOL.20.pdf",
+   "formato": "PDF",
+   "paginas": 85,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking (volume curto)."
+  },
+  {
+   "vol": 21,
+   "arquivo": "ONE PUNCH MAN VOL.21.pdf",
+   "formato": "PDF",
+   "paginas": 232,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 22,
+   "arquivo": "ONE PUNCH MAN VOL.22.pdf",
+   "formato": "PDF",
+   "paginas": 124,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 23,
+   "arquivo": "ONE PUNCH MAN VOL.23.pdf",
+   "formato": "PDF",
+   "paginas": 151,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 24,
+   "arquivo": "ONE PUNCH MAN VOL.24.pdf",
+   "formato": "PDF",
+   "paginas": 140,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 25,
+   "arquivo": "ONE PUNCH MAN VOL.25.pdf",
+   "formato": "PDF",
+   "paginas": 148,
+   "metodo": "OCR e leitura visual",
+   "obs": "Reunião de heróis Classe S e flashback do sistema de classes; só repete posições já registradas."
+  },
+  {
+   "vol": 26,
+   "arquivo": "ONE PUNCH MAN VOL.26.pdf",
+   "formato": "PDF",
+   "paginas": 184,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 27,
+   "arquivo": "ONE PUNCH MAN VOL.27.pdf",
+   "formato": "PDF",
+   "paginas": 206,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 28,
+   "arquivo": "ONE PUNCH MAN VOL.28.pdf",
+   "formato": "PDF",
+   "paginas": 169,
+   "metodo": "OCR e leitura visual",
+   "obs": "Flashy Flash S-13 (repete)."
+  },
+  {
+   "vol": 29,
+   "arquivo": "ONE PUNCH MAN VOL.29.pdf",
+   "formato": "PDF",
+   "paginas": 199,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 30,
+   "arquivo": "ONE PUNCH MAN VOL.30.pdf",
+   "formato": "PDF",
+   "paginas": 214,
+   "metodo": "OCR e leitura visual",
+   "obs": "Flashy Flash S-13 (repete)."
+  },
+  {
+   "vol": 31,
+   "arquivo": "ONE PUNCH MAN VOL.31.pdf",
+   "formato": "PDF",
+   "paginas": 155,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 32,
+   "arquivo": "ONE PUNCH MAN VOL.32.pdf",
+   "formato": "PDF",
+   "paginas": 262,
+   "metodo": "OCR e leitura visual",
+   "obs": "Sem posição de ranking."
+  },
+  {
+   "vol": 33,
+   "arquivo": "ONE PUNCH MAN VOL.33.pdf",
+   "formato": "PDF",
+   "paginas": 168,
+   "metodo": "OCR e leitura visual",
+   "obs": "Air A-35 (repete)."
+  }
+ ],
+ "notas": [
+  {
+   "id": "paginacao",
+   "titulo": "Como ler a paginação",
+   "texto": "A indicação “p.” é o índice da imagem no arquivo consultado, e não a numeração impressa no volume. Nos CBR (vols. 3 a 5) a contagem começa em 0; nos PDF (demais volumes) começa em 1. Os vols. 3 a 5 foram paginados pelo CBR, porque o PDF tem menos imagens (por exemplo, o vol. 5 tem 186 páginas no PDF e a referência chega à p. 221)."
+  },
+  {
+   "id": "capitulos",
+   "titulo": "Numeração de capítulos",
+   "texto": "Os capítulos seguem a numeração “Soco” impressa nas aberturas dos scans. Quando a abertura não foi lida, o capítulo foi estimado pela posição das aberturas vizinhas e aparece como “(est.)”; a estimativa pode errar por 1. Os scans também trazem a numeração do site de origem (por exemplo, “Capítulo 83” junto de “55º Soco”, no vol. 11), e as entradas vindas da Wikipedia podem usar numeração diferente. Nos vols. 31 e 33 a abertura passa a usar “#157” e “#168”."
+  },
+  {
+   "id": "metodo",
+   "titulo": "Método",
+   "texto": "Vols. 1 e 2: OCR das páginas dos PDF. Vols. 3 a 5: leitura direta das páginas. Vols. 6 a 33: OCR nas páginas dos PDF, seguido de leitura visual das páginas com legendas de ranking. As entradas lidas apenas por OCR (sinalizadas na nota de cada uma) podem ter erro de dígito. Nos vols. 26 a 33 não houve conferência página a página, e legendas pequenas ou escritas de modo diferente (como “ranque”) podem ter passado."
+  },
+  {
+   "id": "nomes",
+   "titulo": "Nomes dos personagens",
+   "texto": "Cada edição traduz os nomes à sua maneira. Quando o nome do scan não corresponde a um nome já usado, a entrada leva “(nome da tradução)”. Quatro correspondências foram feitas só pela posição, sem confirmação de nome: Stinger = Perfurador (A-10), Gearspear = Lança Psíquica (C-133), Monster Roper Shell = Concha Prensa Estranha (C-3) e Food Battler Futoshi = Lutador de Comida Futotsu (C-66, o mesmo herói, só com o nome traduzido de outro jeito)."
+  },
+  {
+   "id": "edicoes",
+   "titulo": "Mesma cena em edições diferentes",
+   "texto": "A reunião dos heróis Classe S aparece nas p. 216 a 221 do CBR do vol. 5 e nas p. 17 a 22 do PDF do vol. 6 (cap. 29). É a mesma cena, e a edição em CBR inclui o fim do capítulo 29 no vol. 5. O Saitama em B-63 (CBR vol. 5, p. 221) é a mesma página do PDF vol. 6, p. 22."
+  },
+  {
+   "id": "saitama",
+   "titulo": "Conferência do Saitama",
+   "texto": "As 15 páginas em que o Saitama tem posição foram lidas na imagem: C-342, C-5, C-2 (três vezes), C-1, B-101, B-63, B-7 (quatro vezes), B-17 e B-33. Todas conferem com o registro. A única fora de sequência é o B-17 do vol. 10 (p. 166), mantido e marcado como suspeito: o B-7 aparece nos vols. 9, 11 e 17, e o B-33 no vol. 15. Pode ser erro de digitação ou de tradução dessa edição."
+  },
+  {
+   "id": "flashback",
+   "titulo": "Posições de flashback (não registradas)",
+   "texto": "No vol. 25 (p. 89 a 91), um flashback mostra heróis em classes mais baixas “na época”: Bastão de Metal C-223, Homem Cão de Guarda C-301, Super Liga do Brilho Negro C-383 e Presa Prateada B-77. Essas posições são históricas e não entram no ranking, pois fariam os heróis recuar de classe na linha do tempo."
+  },
+  {
+   "id": "wikipedia",
+   "titulo": "Divergências com a Wikipedia",
+   "texto": "Valores diferentes dos da Wikipedia, confirmados no scan: D-Pad C-25 (Wikipedia: 22), Funeral Suspenders C-44 (Wikipedia: 40) e Crescent Eyebroll A-25 (Wikipedia: 26)."
+  },
+  {
+   "id": "duplicadas",
+   "titulo": "Repetições não registradas",
+   "texto": "Posições que reaparecem sem mudança em volumes posteriores (por exemplo, Flashy Flash S-13 nos vols. 28 e 30, Air A-35 no vol. 33, a reunião dos Classe S no vol. 25) foram conferidas, mas não registradas de novo."
+  }
+ ]
+}

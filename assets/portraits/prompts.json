@@ -1,0 +1,586 @@
+{
+  "tool": "image_gen (ferramenta integrada)",
+  "description": "Ilustrações conceituais de fãs, não imagens oficiais; fidelidade ao desenho canônico não foi validada integralmente.",
+  "portraits": [
+    {
+      "name": "Genos",
+      "slug": "genos",
+      "prompt": "Premium manga portrait asset for Hero Atlas, One Punch Man. Genos, recognizable adult male cyborg with short spiky blond hair, black sclera and amber eyes, ear studs, detailed metallic cybernetic arms and black sleeveless top. Portrait 2:3, thigh-up three-quarter pose looking left, face in upper quarter, character centered with room for shoulders, no cropping top of head. Hand-drawn manga ink engraving with detailed screentone, cinematic chiaroscuro. Restrained charcoal navy background #0b1017, muted warm ivory highlights, amber rim lighting, subtle ochre metal reflections. Lower body dissolves into dark navy shadows. Premium collector manga illustration, exceptionally detailed ink work, coherent with the existing Saitama artwork, not 3D, no glossy rendering, no text, no logos, no borders.",
+      "file": "genos.png"
+    },
+    {
+      "name": "Bang",
+      "slug": "bang",
+      "prompt": "Premium manga portrait asset for Hero Atlas. Bang (Silver Fang) from One Punch Man, elderly Japanese male martial arts master with spiky silver-white hair, thick white mustache, deeply lined face, lean muscular build, fitted black long-sleeved turtleneck, dignified calm expression and relaxed martial arts stance. Portrait 2:3, thigh-up three-quarter pose looking left, face in upper quarter, full head visible, centered character. Hand-drawn manga ink engraving, detailed screentone, cinematic chiaroscuro. Charcoal navy background #0b1017, restrained warm ivory and amber rim lighting with muted original costume colors. Lower body and edges dissolve into navy shadows. Collector-quality ink illustration consistent with the existing Saitama and Genos portraits. No text, no logos, no borders, not 3D, not glossy.",
+      "file": "bang.png"
+    },
+    {
+      "name": "King",
+      "slug": "king",
+      "prompt": "Premium manga portrait asset for Hero Atlas. King from One Punch Man, tall muscular adult man with slicked-back blond hair, three parallel vertical scars crossing his left eye, heavy brow, stern intimidating expression, black long-sleeved shirt, hands relaxed at his sides. Portrait 2:3, thigh-up three-quarter pose looking left, face in upper quarter, full head visible, centered character. Hand-drawn manga ink engraving, detailed screentone, cinematic chiaroscuro. Charcoal navy background #0b1017, restrained warm ivory and amber rim lighting with muted original costume colors. Lower body and edges dissolve into navy shadows. Collector-quality ink illustration consistent with the existing Saitama and Genos portraits. No text, no logos, no borders, not 3D, not glossy.",
+      "file": "king.png"
+    },
+    {
+      "name": "Mumen Rider",
+      "slug": "mumen-rider",
+      "prompt": "Premium manga portrait asset for Hero Atlas. Mumen Rider from One Punch Man, adult male cyclist superhero wearing his recognizable green bicycle helmet, dark goggles, green segmented chest armor over a brown long-sleeved suit, gloves, brave determined expression, bicycle handlebar subtly visible at lower edge. Portrait 2:3, thigh-up three-quarter pose looking left, face in upper quarter, full head visible, centered character. Hand-drawn manga ink engraving, detailed screentone, cinematic chiaroscuro. Charcoal navy background #0b1017, restrained warm ivory and amber rim lighting with muted original costume colors. Lower body and edges dissolve into navy shadows. Collector-quality ink illustration consistent with the existing Saitama and Genos portraits. No text, no logos, no borders, not 3D, not glossy.",
+      "file": "mumen-rider.png"
+    },
+    {
+      "name": "Terrible Tornado",
+      "slug": "tatsumaki",
+      "prompt": "Create a head-and-shoulders character portrait of Tatsumaki from One Punch Man: recognizable curly green hair, confident expression, opaque black high-neck clothing, head and shoulders only, no body below shoulders. Vertical portrait for a manga hero encyclopedia. Fine black ink hatching and screentone, subdued navy background, amber rim light, muted colors. Full head visible with margin, centered face in upper third. Completely nonsexual facial portrait. No text or logos.",
+      "file": "tatsumaki.png"
+    },
+    {
+      "name": "Hellish Blizzard",
+      "slug": "fubuki",
+      "prompt": "Create a head-and-shoulders character portrait of Fubuki from One Punch Man: recognizable short dark green bob hair, composed expression, white fur coat collar fully enclosing neck and shoulders, head and shoulders only. Vertical portrait for a manga hero encyclopedia. Fine black ink hatching and screentone, subdued navy background, amber rim light, muted colors. Full head visible with margin, centered face in upper third. Completely nonsexual facial portrait. No text or logos.",
+      "file": "fubuki.png"
+    },
+    {
+      "name": "Air",
+      "slug": "air",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Air, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "air.png"
+    },
+    {
+      "name": "Amai Mask",
+      "slug": "amai-mask",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Amai Mask, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "amai-mask.png"
+    },
+    {
+      "name": "Atomic Samurai",
+      "slug": "atomic-samurai",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Atomic Samurai, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "atomic-samurai.png"
+    },
+    {
+      "name": "Armored Chief Clerk",
+      "slug": "armored-chief-clerk",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Armored Chief Clerk, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "armored-chief-clerk.png"
+    },
+    {
+      "name": "Battery Man",
+      "slug": "battery-man",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Battery Man, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "battery-man.png"
+    },
+    {
+      "name": "Atirador",
+      "slug": "atirador",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Shooter (listed as Atirador in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "atirador.png"
+    },
+    {
+      "name": "Bone",
+      "slug": "bone",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Bone, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "bone.png"
+    },
+    {
+      "name": "Blast",
+      "slug": "blast",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Blast, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "blast.png"
+    },
+    {
+      "name": "Buraco Duplo",
+      "slug": "buraco-duplo",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Double Hole (listed as Buraco Duplo in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "buraco-duplo.png"
+    },
+    {
+      "name": "Blue Fire",
+      "slug": "blue-fire",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Blue Fire, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "blue-fire.png"
+    },
+    {
+      "name": "Bushi Drill",
+      "slug": "bushi-drill",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Bushi Drill, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "bushi-drill.png"
+    },
+    {
+      "name": "Captain Mizuki",
+      "slug": "captain-mizuki",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Captain Mizuki, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "captain-mizuki.png"
+    },
+    {
+      "name": "Bunbun Man",
+      "slug": "bunbun-man",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Bunbun Man, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "bunbun-man.png"
+    },
+    {
+      "name": "Butterfly DX",
+      "slug": "butterfly-dx",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Butterfly DX, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "butterfly-dx.png"
+    },
+    {
+      "name": "Chain Toad",
+      "slug": "chain-toad",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Chain Toad, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "chain-toad.png"
+    },
+    {
+      "name": "D-Pad",
+      "slug": "d-pad",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: D-Pad, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "d-pad.png"
+    },
+    {
+      "name": "Chifre Selvagem",
+      "slug": "chifre-selvagem",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Wild Horn (listed as Chifre Selvagem in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "chifre-selvagem.png"
+    },
+    {
+      "name": "Child Emperor",
+      "slug": "child-emperor",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Child Emperor, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "child-emperor.png"
+    },
+    {
+      "name": "Darkness Blade",
+      "slug": "darkness-blade",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Darkness Blade, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "darkness-blade.png"
+    },
+    {
+      "name": "Death Gatling",
+      "slug": "death-gatling",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Death Gatling, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "death-gatling.png"
+    },
+    {
+      "name": "Drive Knight",
+      "slug": "drive-knight",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Drive Knight, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "drive-knight.png"
+    },
+    {
+      "name": "Ecolo G",
+      "slug": "ecolo-g",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Ecolo G, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "ecolo-g.png"
+    },
+    {
+      "name": "Crescent Eyebroll",
+      "slug": "crescent-eyebroll",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Crescent Eyebroll, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "crescent-eyebroll.png"
+    },
+    {
+      "name": "Feather",
+      "slug": "feather",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Feather, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "feather.png"
+    },
+    {
+      "name": "Eyelashes",
+      "slug": "eyelashes",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Eyelashes, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "eyelashes.png"
+    },
+    {
+      "name": "Flashy Flash",
+      "slug": "flashy-flash",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Flashy Flash, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "flashy-flash.png"
+    },
+    {
+      "name": "Food Battler Futoshi",
+      "slug": "food-battler-futoshi",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Food Battler Futoshi, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "food-battler-futoshi.png"
+    },
+    {
+      "name": "Forte",
+      "slug": "forte",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Forte, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "forte.png"
+    },
+    {
+      "name": "Golden Ball",
+      "slug": "golden-ball",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Golden Ball, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "golden-ball.png"
+    },
+    {
+      "name": "Funeral Suspenders",
+      "slug": "funeral-suspenders",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Funeral Suspenders, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "funeral-suspenders.png"
+    },
+    {
+      "name": "Grave Eight",
+      "slug": "grave-eight",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Grave Eight, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "grave-eight.png"
+    },
+    {
+      "name": "Gasmask Cowboy",
+      "slug": "gasmask-cowboy",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Gasmask Cowboy, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "gasmask-cowboy.png"
+    },
+    {
+      "name": "Heavy Kong",
+      "slug": "heavy-kong",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Heavy Kong, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "heavy-kong.png"
+    },
+    {
+      "name": "Gearspear",
+      "slug": "gearspear",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Gearspear, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "gearspear.png"
+    },
+    {
+      "name": "Heavy Tank Loincloth",
+      "slug": "heavy-tank-loincloth",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Heavy Tank Loincloth, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "heavy-tank-loincloth.png"
+    },
+    {
+      "name": "Homem Choroso",
+      "slug": "homem-choroso",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Crying Man (listed as Homem Choroso in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "homem-choroso.png"
+    },
+    {
+      "name": "Great Philosopher",
+      "slug": "great-philosopher",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Great Philosopher, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "great-philosopher.png"
+    },
+    {
+      "name": "Green",
+      "slug": "green",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Green, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "green.png"
+    },
+    {
+      "name": "Homem Raivoso",
+      "slug": "homem-raivoso",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Angry Man (listed as Homem Raivoso in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "homem-raivoso.png"
+    },
+    {
+      "name": "Horse-Bone",
+      "slug": "horse-bone",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Horse-Bone, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "horse-bone.png"
+    },
+    {
+      "name": "Iaian",
+      "slug": "iaian",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Iaian, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "iaian.png"
+    },
+    {
+      "name": "Homem Sorriso",
+      "slug": "homem-sorriso",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Smile Man (B-class hero, not Smileman A-class) (listed as Homem Sorriso in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "homem-sorriso.png"
+    },
+    {
+      "name": "Lightning Max",
+      "slug": "lightning-max",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Lightning Max, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "lightning-max.png"
+    },
+    {
+      "name": "Lightning Genji",
+      "slug": "lightning-genji",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Lightning Genji, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "lightning-genji.png"
+    },
+    {
+      "name": "Mad Devil Yankee",
+      "slug": "mad-devil-yankee",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Mad Devil Yankee, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "mad-devil-yankee.png"
+    },
+    {
+      "name": "Magicman",
+      "slug": "magicman",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Magicman, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "magicman.png"
+    },
+    {
+      "name": "Mestre dos Odores",
+      "slug": "mestre-dos-odores",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Smell Master (listed as Mestre dos Odores in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "mestre-dos-odores.png"
+    },
+    {
+      "name": "Metal Knight",
+      "slug": "metal-knight",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Metal Knight, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "metal-knight.png"
+    },
+    {
+      "name": "Monster Roper Shell",
+      "slug": "monster-roper-shell",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Monster Roper Shell, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "monster-roper-shell.png"
+    },
+    {
+      "name": "Metal Bat",
+      "slug": "metal-bat",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Metal Bat, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "metal-bat.png"
+    },
+    {
+      "name": "Narcisstoic",
+      "slug": "narcisstoic",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Narcisstoic, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "narcisstoic.png"
+    },
+    {
+      "name": "Needlestar",
+      "slug": "needlestar",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Needlestar, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "needlestar.png"
+    },
+    {
+      "name": "Pig God",
+      "slug": "pig-god",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Pig God, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "pig-god.png"
+    },
+    {
+      "name": "Okama Itachi",
+      "slug": "okama-itachi",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Okama Itachi, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "okama-itachi.png"
+    },
+    {
+      "name": "Poison",
+      "slug": "poison",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Poison, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "poison.png"
+    },
+    {
+      "name": "One Shotter",
+      "slug": "one-shotter",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: One Shotter, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "one-shotter.png"
+    },
+    {
+      "name": "Puri-Puri Prisoner",
+      "slug": "puri-puri-prisoner",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Puri-Puri Prisoner, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "puri-puri-prisoner.png"
+    },
+    {
+      "name": "Pós-graduado",
+      "slug": "pos-graduado",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Grad School Graduate (listed as Pós-graduado in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "pos-graduado.png"
+    },
+    {
+      "name": "Monocross",
+      "slug": "monocross",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Monocross, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "monocross.png"
+    },
+    {
+      "name": "Smileman",
+      "slug": "smileman",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Smileman, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "smileman.png"
+    },
+    {
+      "name": "Shadow Ring",
+      "slug": "shadow-ring",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Shadow Ring, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "shadow-ring.png"
+    },
+    {
+      "name": "Snakebite Snek",
+      "slug": "snakebite-snek",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Snakebite Snek, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "snakebite-snek.png"
+    },
+    {
+      "name": "Pólvora",
+      "slug": "polvora",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Gun Gun (listed as Pólvora in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "polvora.png"
+    },
+    {
+      "name": "Red Muffler",
+      "slug": "red-muffler",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Red Muffler, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "red-muffler.png"
+    },
+    {
+      "name": "Spring Mustachio",
+      "slug": "spring-mustachio",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Spring Mustachio, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "spring-mustachio.png"
+    },
+    {
+      "name": "Stinger",
+      "slug": "stinger",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Stinger, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "stinger.png"
+    },
+    {
+      "name": "Superalloy Blackluster",
+      "slug": "superalloy-blackluster",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Superalloy Blackluster, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "superalloy-blackluster.png"
+    },
+    {
+      "name": "Tank-Top Master",
+      "slug": "tank-top-master",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Tank-Top Master, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "tank-top-master.png"
+    },
+    {
+      "name": "Tank-Top Tiger",
+      "slug": "tank-top-tiger",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Tank-Top Tiger, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "tank-top-tiger.png"
+    },
+    {
+      "name": "Tank-Top Blackhole",
+      "slug": "tank-top-blackhole",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Tank-Top Blackhole, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "tank-top-blackhole.png"
+    },
+    {
+      "name": "Tengu das Armadilhas",
+      "slug": "tengu-das-armadilhas",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Trap Tengu (listed as Tengu das Armadilhas in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "tengu-das-armadilhas.png"
+    },
+    {
+      "name": "Tank-Top Vegetarian",
+      "slug": "tank-top-vegetarian",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Tank-Top Vegetarian, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "tank-top-vegetarian.png"
+    },
+    {
+      "name": "Terry Pêssego",
+      "slug": "terry-pessego",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Peach Terry (listed as Terry Pêssego in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "terry-pessego.png"
+    },
+    {
+      "name": "Vespa Rosa",
+      "slug": "vespa-rosa",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Pink Hornet (listed as Vespa Rosa in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "vespa-rosa.png"
+    },
+    {
+      "name": "Tranças Gêmeas",
+      "slug": "trancas-gemeas",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Twin Tail (listed as Tranças Gêmeas in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "trancas-gemeas.png"
+    },
+    {
+      "name": "Watchdog Man",
+      "slug": "watchdog-man",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Watchdog Man, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "watchdog-man.png"
+    },
+    {
+      "name": "Óculos",
+      "slug": "oculos",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Glasses (listed as Óculos in Portuguese), the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "oculos.png"
+    },
+    {
+      "name": "Zombieman",
+      "slug": "zombieman",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Zombieman, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "zombieman.png"
+    },
+    {
+      "name": "Wild Monkey",
+      "slug": "wild-monkey",
+      "prompt": "Create one premium manga character portrait for the Hero Atlas encyclopedia of One Punch Man. Subject: Wild Monkey, the named Hero Association character from One Punch Man. Preserve this character's recognizable canonical facial features, hair, headgear and costume; not a generic unrelated superhero. Vertical 2:3 head-and-shoulders portrait, fully clothed with shoulders covered, complete head in frame with margin. Face centered in upper third, slight three-quarter turn looking left. Detailed black ink engraving and fine manga screentone, cinematic chiaroscuro. Charcoal navy #0b1017 background, muted original costume colors, restrained warm ivory highlights and amber rim light. Shoulders fade into navy shadows in bottom third. Consistent collector-quality aesthetic with Saitama, Genos and Bang. No text, letters, logos, border, watermark, weapons aimed at viewer, gore or sexualization. Not 3D, not glossy.",
+      "file": "wild-monkey.png"
+    },
+    {
+      "name": "Dynamite Man",
+      "slug": "dynamite-man",
+      "file": "dynamite-man.png",
+      "prompt": "Create a calm head-and-shoulders portrait of the fictional C-class superhero Dynamite Man from the One Punch Man manga. Show only his face, hair and the collar of his ordinary hero outfit, with a neutral expression. Vertical portrait in finely hatched manga ink, charcoal navy background, muted warm colors and amber edge lighting, consistent with Hero Atlas portraits. No action scene, no objects in hands, no text or logo."
+    }
+  ],
+  "revisions": [
+    {
+      "name": "Bushi Drill",
+      "slug": "bushi-drill-v2",
+      "path": "/home/gustavo/Codes/rank-onepunchman/assets/portraits/bushi-drill-v2.png",
+      "prompt": "Character portrait for Hero Atlas: Bushidrill from One Punch Man. A 37-year-old Japanese samurai with thick black eyebrows, a short pointed black goatee, black hair tied in a ponytail, black kimono and black hakama. Traditional Edo-period samurai face inspired by Toshiro Mifune. No helmet, no armor, no drill or horn on head. Faithfully follow this appearance description. Vertical 2:3 head and shoulders, complete head visible with margin, slightly turned left, facial features clear. Detailed manga ink hatching and screentone, muted original colors, dark navy #0b1017 background and warm amber rim lighting, shoulders fading into dark at bottom. Fully clothed, no text labels, no watermarks.",
+      "source": "https://onepunchman.fandom.com/wiki/Bushidrill"
+    },
+    {
+      "name": "Atirador",
+      "slug": "atirador-v2",
+      "path": "/home/gustavo/Codes/rank-onepunchman/assets/portraits/atirador-v2.png",
+      "prompt": "Character portrait for Hero Atlas: Shooter from One Punch Man, the B-class archer. A male hero with distinctive dark hair: front hair curved like a bow, back hair tied using an arrow-shaped hairpin. Baggy dark green Japanese archer clothing. No cowboy hat, no goggles, no firearms. Faithfully follow this appearance description. Vertical 2:3 head and shoulders, complete head visible with margin, slightly turned left, facial features clear. Detailed manga ink hatching and screentone, muted original colors, dark navy #0b1017 background and warm amber rim lighting, shoulders fading into dark at bottom. Fully clothed, no text labels, no watermarks.",
+      "source": "https://onepunchman.fandom.com/wiki/Shooter"
+    },
+    {
+      "name": "Forte",
+      "slug": "forte-v2",
+      "path": "/home/gustavo/Codes/rank-onepunchman/assets/portraits/forte-v2.png",
+      "prompt": "Character portrait for Hero Atlas: Forte from One Punch Man, young adult MALE hero who fights to music. He wears dark sunglasses, a beanie with musical note symbols, large wired black over-ear headphones, and a hooded streetwear jacket with a musical-note motif. Masculine face. No fantasy armor, no wings, no long blond hair. Faithfully follow this appearance description. Vertical 2:3 head and shoulders, complete head visible with margin, slightly turned left, facial features clear. Detailed manga ink hatching and screentone, muted original colors, dark navy #0b1017 background and warm amber rim lighting, shoulders fading into dark at bottom. Fully clothed, no text labels, no watermarks.",
+      "source": "https://onepunchman.fandom.com/ru/wiki/Форте"
+    },
+    {
+      "name": "Eyelashes",
+      "slug": "eyelashes-v2",
+      "path": "/home/gustavo/Codes/rank-onepunchman/assets/portraits/eyelashes-v2.png",
+      "prompt": "Character portrait for Hero Atlas: Eyelashes from One Punch Man, adult MALE subordinate of Fubuki. Long dark hair tied in a small ponytail, notably long eyelashes, clean-shaven masculine face, black business suit, white dress shirt and black tie. No helmet, no hood, no armor. Faithfully follow this appearance description. Vertical 2:3 head and shoulders, complete head visible with margin, slightly turned left, facial features clear. Detailed manga ink hatching and screentone, muted original colors, dark navy #0b1017 background and warm amber rim lighting, shoulders fading into dark at bottom. Fully clothed, no text labels, no watermarks.",
+      "source": "https://en.wikipedia.org/wiki/List_of_One-Punch_Man_characters"
+    },
+    {
+      "name": "Death Gatling",
+      "slug": "death-gatling-v2",
+      "path": "/home/gustavo/Codes/rank-onepunchman/assets/portraits/death-gatling-v2.png",
+      "prompt": "Character portrait for Hero Atlas: Death Gatling from One Punch Man. Young adult male hero with unkempt medium-length black hair, cross-shaped scar on the left side of his face, visible eyes, rugged dark high-collar shirt and tattered dark cape. Upper chest and head portrait, no gun visible, no sunglasses. Faithfully follow this appearance description. Vertical 2:3 head and shoulders, complete head visible with margin, slightly turned left, facial features clear. Detailed manga ink hatching and screentone, muted original colors, dark navy #0b1017 background and warm amber rim lighting, shoulders fading into dark at bottom. Fully clothed, no text labels, no watermarks.",
+      "source": "https://onepunchman.fandom.com/wiki/Death_Gatling"
+    },
+    {
+      "name": "Ecolo G",
+      "slug": "ecolo-g-v2",
+      "prompt": "Head and shoulders character portrait. Ecolo G from One Punch Man: elderly male hero with a primitive caveman appearance, weathered wrinkled face, coarse hair and beard, simple animal-hide garment covering the shoulders. A rugged older human, not a young elf, no green hair or leaves. Vertical 2:3, complete head visible, face centered upper third. Fine manga ink hatching and screentone, subdued navy background #0b1017, muted colors, warm amber rim lighting, shoulders dissolve into dark shadows. Fully clothed, calm still portrait, no text, no watermark.",
+      "path": "/home/gustavo/Codes/rank-onepunchman/assets/portraits/ecolo-g-v2.png",
+      "source": "https://onepunchman.fandom.com/wiki/Ecolo_G"
+    },
+    {
+      "name": "Blue Fire",
+      "slug": "blue-fire-v2",
+      "prompt": "Head and shoulders character portrait. Blue Fire from One Punch Man: young adult male martial artist with short black hair and dark eyes, deep blue kung-fu jacket with white piping and traditional frog buttons. Serious face. No armor or scarf. Vertical 2:3, complete head visible, face centered upper third. Fine manga ink hatching and screentone, subdued navy background #0b1017, muted colors, warm amber rim lighting, shoulders dissolve into dark shadows. Fully clothed, calm still portrait, no text, no watermark.",
+      "path": "/home/gustavo/Codes/rank-onepunchman/assets/portraits/blue-fire-v2.png",
+      "source": "https://daddyjim.ai/ja/one-punch-man/character/Blue-Fire"
+    },
+    {
+      "name": "Golden Ball",
+      "slug": "golden-ball-v2",
+      "prompt": "Head and shoulders character portrait. Golden Ball from One Punch Man: adult man, light beanie, short blond hair, brown goatee, relaxed expression, hoodie under a letterman jacket, small lollipop held in his mouth. Streetwear, not armored superhero outfit, no spherical head decoration. Vertical 2:3, complete head visible, face centered upper third. Fine manga ink hatching and screentone, subdued navy background #0b1017, muted colors, warm amber rim lighting, shoulders dissolve into dark shadows. Fully clothed, calm still portrait, no text, no watermark.",
+      "path": "/home/gustavo/Codes/rank-onepunchman/assets/portraits/golden-ball-v2.png",
+      "source": "https://daddyjim.ai/one-punch-man/character/Golden-Ball"
+    },
+    {
+      "name": "Poison",
+      "file": "poison-v2.png",
+      "description": "Retrato masculino corrigido: pele escura, cabelo claro curto e roupa preta com detalhes de caveiras.",
+      "source": "https://onepunchman.fandom.com/wiki/Poison"
+    }
+  ]
+}

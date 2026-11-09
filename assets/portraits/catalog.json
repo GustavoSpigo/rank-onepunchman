@@ -1,0 +1,350 @@
+[
+  {
+    "name": "Air",
+    "file": "air.png"
+  },
+  {
+    "name": "Amai Mask",
+    "file": "amai-mask.png"
+  },
+  {
+    "name": "Armored Chief Clerk",
+    "file": "armored-chief-clerk.png"
+  },
+  {
+    "name": "Atirador",
+    "file": "atirador-v2.png"
+  },
+  {
+    "name": "Atomic Samurai",
+    "file": "atomic-samurai.png"
+  },
+  {
+    "name": "Bang",
+    "file": "bang.png"
+  },
+  {
+    "name": "Battery Man",
+    "file": "battery-man.png"
+  },
+  {
+    "name": "Blast",
+    "file": "blast.png"
+  },
+  {
+    "name": "Blue Fire",
+    "file": "blue-fire-v2.png"
+  },
+  {
+    "name": "Bone",
+    "file": "bone.png"
+  },
+  {
+    "name": "Bunbun Man",
+    "file": "bunbun-man.png"
+  },
+  {
+    "name": "Buraco Duplo",
+    "file": "buraco-duplo.png"
+  },
+  {
+    "name": "Bushi Drill",
+    "file": "bushi-drill-v2.png"
+  },
+  {
+    "name": "Butterfly DX",
+    "file": "butterfly-dx.png"
+  },
+  {
+    "name": "Captain Mizuki",
+    "file": "captain-mizuki.png"
+  },
+  {
+    "name": "Chain Toad",
+    "file": "chain-toad.png"
+  },
+  {
+    "name": "Chifre Selvagem",
+    "file": "chifre-selvagem.png"
+  },
+  {
+    "name": "Child Emperor",
+    "file": "child-emperor.png"
+  },
+  {
+    "name": "Crescent Eyebroll",
+    "file": "crescent-eyebroll.png"
+  },
+  {
+    "name": "D-Pad",
+    "file": "d-pad.png"
+  },
+  {
+    "name": "Darkness Blade",
+    "file": "darkness-blade.png"
+  },
+  {
+    "name": "Death Gatling",
+    "file": "death-gatling-v2.png"
+  },
+  {
+    "name": "Drive Knight",
+    "file": "drive-knight.png"
+  },
+  {
+    "name": "Dynamite Man",
+    "file": "dynamite-man.png"
+  },
+  {
+    "name": "Ecolo G",
+    "file": "ecolo-g-v2.png"
+  },
+  {
+    "name": "Eyelashes",
+    "file": "eyelashes-v2.png"
+  },
+  {
+    "name": "Feather",
+    "file": "feather.png"
+  },
+  {
+    "name": "Flashy Flash",
+    "file": "flashy-flash.png"
+  },
+  {
+    "name": "Food Battler Futoshi",
+    "file": "food-battler-futoshi.png"
+  },
+  {
+    "name": "Forte",
+    "file": "forte-v2.png"
+  },
+  {
+    "name": "Funeral Suspenders",
+    "file": "funeral-suspenders.png"
+  },
+  {
+    "name": "Gasmask Cowboy",
+    "file": "gasmask-cowboy.png"
+  },
+  {
+    "name": "Gearspear",
+    "file": "gearspear.png"
+  },
+  {
+    "name": "Genos",
+    "file": "genos.png"
+  },
+  {
+    "name": "Golden Ball",
+    "file": "golden-ball-v2.png"
+  },
+  {
+    "name": "Grave Eight",
+    "file": "grave-eight.png"
+  },
+  {
+    "name": "Great Philosopher",
+    "file": "great-philosopher.png"
+  },
+  {
+    "name": "Green",
+    "file": "green.png"
+  },
+  {
+    "name": "Heavy Kong",
+    "file": "heavy-kong.png"
+  },
+  {
+    "name": "Heavy Tank Loincloth",
+    "file": "heavy-tank-loincloth.png"
+  },
+  {
+    "name": "Hellish Blizzard",
+    "file": "fubuki.png"
+  },
+  {
+    "name": "Homem Choroso",
+    "file": "homem-choroso.png"
+  },
+  {
+    "name": "Homem Raivoso",
+    "file": "homem-raivoso.png"
+  },
+  {
+    "name": "Homem Sorriso",
+    "file": "homem-sorriso.png"
+  },
+  {
+    "name": "Horse-Bone",
+    "file": "horse-bone.png"
+  },
+  {
+    "name": "Iaian",
+    "file": "iaian.png"
+  },
+  {
+    "name": "King",
+    "file": "king.png"
+  },
+  {
+    "name": "Lightning Genji",
+    "file": "lightning-genji.png"
+  },
+  {
+    "name": "Lightning Max",
+    "file": "lightning-max.png"
+  },
+  {
+    "name": "Mad Devil Yankee",
+    "file": "mad-devil-yankee.png"
+  },
+  {
+    "name": "Magicman",
+    "file": "magicman.png"
+  },
+  {
+    "name": "Mestre dos Odores",
+    "file": "mestre-dos-odores.png"
+  },
+  {
+    "name": "Metal Bat",
+    "file": "metal-bat.png"
+  },
+  {
+    "name": "Metal Knight",
+    "file": "metal-knight.png"
+  },
+  {
+    "name": "Monocross",
+    "file": "monocross.png"
+  },
+  {
+    "name": "Monster Roper Shell",
+    "file": "monster-roper-shell.png"
+  },
+  {
+    "name": "Mumen Rider",
+    "file": "mumen-rider.png"
+  },
+  {
+    "name": "Narcisstoic",
+    "file": "narcisstoic.png"
+  },
+  {
+    "name": "Needlestar",
+    "file": "needlestar.png"
+  },
+  {
+    "name": "Okama Itachi",
+    "file": "okama-itachi.png"
+  },
+  {
+    "name": "One Shotter",
+    "file": "one-shotter.png"
+  },
+  {
+    "name": "Pig God",
+    "file": "pig-god.png"
+  },
+  {
+    "name": "Poison",
+    "file": "poison-v2.png"
+  },
+  {
+    "name": "Puri-Puri Prisoner",
+    "file": "puri-puri-prisoner.png"
+  },
+  {
+    "name": "Pólvora",
+    "file": "polvora.png"
+  },
+  {
+    "name": "Pós-graduado",
+    "file": "pos-graduado.png"
+  },
+  {
+    "name": "Red Muffler",
+    "file": "red-muffler.png"
+  },
+  {
+    "name": "Saitama",
+    "file": "../saitama-art.png"
+  },
+  {
+    "name": "Shadow Ring",
+    "file": "shadow-ring.png"
+  },
+  {
+    "name": "Smileman",
+    "file": "smileman.png"
+  },
+  {
+    "name": "Snakebite Snek",
+    "file": "snakebite-snek.png"
+  },
+  {
+    "name": "Spring Mustachio",
+    "file": "spring-mustachio.png"
+  },
+  {
+    "name": "Stinger",
+    "file": "stinger.png"
+  },
+  {
+    "name": "Superalloy Blackluster",
+    "file": "superalloy-blackluster.png"
+  },
+  {
+    "name": "Tank-Top Blackhole",
+    "file": "tank-top-blackhole.png"
+  },
+  {
+    "name": "Tank-Top Master",
+    "file": "tank-top-master.png"
+  },
+  {
+    "name": "Tank-Top Tiger",
+    "file": "tank-top-tiger.png"
+  },
+  {
+    "name": "Tank-Top Vegetarian",
+    "file": "tank-top-vegetarian.png"
+  },
+  {
+    "name": "Tengu das Armadilhas",
+    "file": "tengu-das-armadilhas.png"
+  },
+  {
+    "name": "Terrible Tornado",
+    "file": "tatsumaki.png"
+  },
+  {
+    "name": "Terry Pêssego",
+    "file": "terry-pessego.png"
+  },
+  {
+    "name": "Tranças Gêmeas",
+    "file": "trancas-gemeas.png"
+  },
+  {
+    "name": "Vespa Rosa",
+    "file": "vespa-rosa.png"
+  },
+  {
+    "name": "Watchdog Man",
+    "file": "watchdog-man.png"
+  },
+  {
+    "name": "Wild Monkey",
+    "file": "wild-monkey.png"
+  },
+  {
+    "name": "Zombieman",
+    "file": "zombieman.png"
+  },
+  {
+    "name": "Óculos",
+    "file": "oculos.png"
+  }
+]
